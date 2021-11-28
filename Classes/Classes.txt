@@ -1,1 +1,1 @@
-Text
+This folder is where the .class files java uses to run the program will be
